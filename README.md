@@ -1,3 +1,14 @@
-###### The synthetic datasets contain records of dead people which collected from ssdmf.info 
-###### These datasets used in our paper to test our proposal Efficient Sequential and Parallel Algorithms for Incremental Record Linkage Using Complete Linkage Clustering IRLA-CL.
-###### For more information, please contact me at 
+# Efficient Sequential and Parallel Algorithms for Incremental Record Linkage Using Complete Linkage Clustering.
+----
+
+
+## Overview
+The Incremental Record Linkage is based on complate linkage hierarchical clustering. You may read the paper titled [Efficient sequential and parallel algorithms for Incremental Record Linkage Using Complate Linkage clustring]().
+
+
+## Contact
+For questions, suggestions, bugs, and other issues, please contact:
+
+```
+
+```
